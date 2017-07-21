@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "ictslipakorn\\": "src"
+    }
+  },
+  "require": {
+    "twbs/bootstrap": "^3.3"
+  }
+}
