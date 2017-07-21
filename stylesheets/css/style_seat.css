@@ -128,4 +128,17 @@ body {
 .wrap_sec_c .wrap_in_sec_a {
   float: left; }
 
+.wrap_personal {
+  background-color: #222222;
+  margin-top: 50px;
+  height: 400px; }
+  .wrap_personal h2 {
+    font-family: 'Kanit', sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 30px; }
+  .wrap_personal .wrap_box_user {
+    background-color: #FFCC00;
+    height: 300px; }
+
 /*# sourceMappingURL=style_seat.css.map */

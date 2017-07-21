@@ -881,7 +881,12 @@ $seat_i_day1_3 = $conn->day1_zone_c_seat_i();
               </article>
             </article> <!-- row c i -->
           </article>
-          <button type="submit" name="button">Buy</button>
+          <article class="col-xs-12 wrap_personal">
+            <h2>ข้อมูลผู้ใช้งาน</h2>
+            <article class="col-sm-offset-4 col-sm-4 wrap_box_user">
+
+            </article>
+          </article>
         </form>
       </section><!-- row -->
       </section>
